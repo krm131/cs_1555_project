@@ -1,0 +1,14 @@
+
+Grades - 
+phase I - 28
+phase II - 35
+
+some feedback/suggestions - 
+
+"1.Create table for Reservations
+
+2. Can use array data type to save stations/distance/stops on route / rail line table. This way order can also be maintained."
+
+
+(Note - These are not final grdes for the project, after submission and grading of the phase 3 of the project, final grades will be decided.)
+

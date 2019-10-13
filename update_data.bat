@@ -1,0 +1,1 @@
+xcopy data "C:\Program Files\PostgreSQL\11\data"
